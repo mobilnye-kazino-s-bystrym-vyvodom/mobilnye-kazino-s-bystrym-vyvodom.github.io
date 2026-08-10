@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: mobilnye-kazino-s-bystrym-vyvodom.github.io
+Sitemap: https://mobilnye-kazino-s-bystrym-vyvodom.github.io/sitemap.xml
